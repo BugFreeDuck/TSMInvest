@@ -4,3 +4,5 @@ Thumbs.db
 _ace3_tmp/
 __pycache__/
 _fix_equal.py
+dist/
+*.zip

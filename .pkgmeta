@@ -1,0 +1,14 @@
+package-as: TSMInvestmentTracker
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+ignore:
+  - sync-to-forever.ps1
+  - package-release.ps1
+  - CURSEFORGE.md
+  - assets
+  - dist
+  - .gitignore
+  - TSMInvestmentTracker/README.md

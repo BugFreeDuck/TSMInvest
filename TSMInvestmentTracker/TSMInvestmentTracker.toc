@@ -6,6 +6,9 @@
 ## Dependencies: TradeSkillMaster
 ## SavedVariables: TSMInvestmentTrackerDB
 ## DefaultState: enabled
+## X-License: MIT
+## X-Category: Auction
+## X-Curse-Project-ID: 0
 
 embeds.xml
 

@@ -1,0 +1,12 @@
+# TSM bridge (WoW: Forever)
+
+For Mark Investments → Refresh without /reload:
+
+1. Copy TSMIT_TSMBridge.lua into Interface\AddOns\TradeSkillMaster\
+2. Add this line at the end of TradeSkillMaster.toc:
+
+   TSMIT_TSMBridge.lua
+
+3. /reload
+
+TSM updates may remove the toc line; add it again after updating TSM.
