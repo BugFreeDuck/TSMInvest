@@ -1,0 +1,16 @@
+## Interface: 16001
+## Title: TSM Investment Tracker
+## Notes: Mark TSM Accounting purchases as investments and view a portfolio overview.
+## Author: Gabrielius
+## Version: 1.0.0
+## Dependencies: TradeSkillMaster
+## SavedVariables: TSMInvestmentTrackerDB
+## DefaultState: enabled
+
+embeds.xml
+
+Core.lua
+AccountingAdapter.lua
+Lots.lua
+Portfolio.lua
+UI.lua

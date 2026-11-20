@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.bak
+_ace3_tmp/
+__pycache__/
+_fix_equal.py
