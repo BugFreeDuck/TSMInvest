@@ -2,6 +2,8 @@
 
 WoW: Forever addon that marks TradeSkillMaster Accounting purchases as **investments** and shows a stock-style **Portfolio Overview**.
 
+![Portfolio Overview](assets/portfolio-overview.png)
+
 ## Requirements
 
 - **WoW: Forever** (Interface `16001`)
